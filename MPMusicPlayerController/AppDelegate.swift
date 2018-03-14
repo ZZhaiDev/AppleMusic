@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  MPMusicPlayerController
+//  ZJMusicPlayerController
 //
 //  Created by Cognitive AI Technologies on 3/7/18.
 //  Copyright © 2018 zijia. All rights reserved.
